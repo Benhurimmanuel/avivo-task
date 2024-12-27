@@ -1,0 +1,18 @@
+.searchBox {
+    width: 100%;
+    max-width: 100%;
+    min-width: 300px;
+}
+
+.addUserBtn,
+.refreshBtn {
+    background-color: #319795 !important;
+    color: white;
+    width: auto;
+    min-width: 120px;
+}
+
+.addUserBtn,
+.refreshBtn {
+    padding: 8px 16px;
+}

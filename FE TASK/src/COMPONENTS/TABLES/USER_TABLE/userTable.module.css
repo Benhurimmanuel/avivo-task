@@ -1,0 +1,38 @@
+.tableContainer {
+    margin: 20px;
+    width: 95%;
+    overflow-x: auto;
+}
+
+.tableHeader {
+    background-color: #e2e8f0;
+    color: #2d3748;
+    font-weight: bold;
+    text-align: left;
+}
+
+.tableRow {
+    background-color: #ffffff;
+}
+
+.tableRow:hover {
+    background-color: #f7fafc;
+}
+
+.tableCell {
+    padding: 12px;
+}
+
+.deleteButton {
+    background-color: #f56565 !important;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.deleteButton:hover {
+    background-color: #e53e3e;
+}
